@@ -3,7 +3,7 @@
 I am familiar with Programming languages - JAVA, C, HTML, PHP, JavaScript and Database queries using SQL. I am Proficient in Office as well.
 I am exploring opportunities to collaborate on open source projects.
 
-<--
+<!--
 RedDeer964/RedDeer964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
